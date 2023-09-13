@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://www.narctix.top/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2023-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +129,14 @@
   
   <url>
     <loc>https://www.narctix.top/tags/JavaScript/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2023-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.narctix.top/tags/web/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2023-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -145,7 +145,7 @@
   
   <url>
     <loc>https://www.narctix.top/categories/web/</loc>
-    <lastmod>2023-09-12</lastmod>
+    <lastmod>2023-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
