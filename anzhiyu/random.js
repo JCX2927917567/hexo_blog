@@ -1,1 +1,1 @@
-var posts=["2023/09/14/JS中null&undefined/","2023/09/10/hello-world/","2023/09/12/JS学习中prototype、__proto__与constructor/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/14/JS中null&undefined/","2023/09/12/JS学习中prototype、__proto__与constructor/","2023/09/10/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
