@@ -1,1 +1,1 @@
-https://www.narctix.top/2023/09/12/JS%E5%AD%A6%E4%B9%A0%E4%B8%ADprototype%E3%80%81__proto__%E4%B8%8Econstructor/
+https://www.narctix.top/2023/09/14/JS%E4%B8%ADnull&undefined/

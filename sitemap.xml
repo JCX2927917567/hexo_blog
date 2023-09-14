@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.narctix.top/2023/09/14/JS%E4%B8%ADnull&undefined/</loc>
+    
+    <lastmod>2023-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.narctix.top/2023/09/12/JS%E5%AD%A6%E4%B9%A0%E4%B8%ADprototype%E3%80%81__proto__%E4%B8%8Econstructor/</loc>
     
     <lastmod>2023-09-12</lastmod>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://www.narctix.top/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +138,14 @@
   
   <url>
     <loc>https://www.narctix.top/tags/JavaScript/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.narctix.top/tags/web/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -145,7 +154,7 @@
   
   <url>
     <loc>https://www.narctix.top/categories/web/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
