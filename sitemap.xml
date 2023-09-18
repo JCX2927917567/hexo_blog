@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.narctix.top/link/index.html</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.narctix.top/posts/48c3b5d3.html</loc>
     
     <lastmod>2023-09-17</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://blog.narctix.top/about/index.html</loc>
-    
-    <lastmod>2023-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.narctix.top/link/index.html</loc>
     
     <lastmod>2023-09-10</lastmod>
     
