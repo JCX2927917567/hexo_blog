@@ -6027,6 +6027,16 @@ body[data-type='about'] #web_bg {
     width: 100% !important;
   }
 }
+@media screen and (min-width: 900px) {
+  .layout > div:first-child {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -o-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+}
 .layout.hide-aside {
   max-width: 1000px;
 }
@@ -9149,7 +9159,7 @@ h1.page-title + .tag-cloud-list {
 }
 @media screen and (min-width: 1200px) {
   #aside-content {
-    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -9335,12 +9345,12 @@ h1.page-title + .tag-cloud-list {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  -webkit-box-lines: multiple;
-  -moz-box-lines: multiple;
-  -o-box-lines: multiple;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+  -webkit-box-lines: single;
+  -moz-box-lines: single;
+  -o-box-lines: single;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
   cursor: pointer;
 }
 #aside-content .card-widget .card-info-social-icons .social-icon {
